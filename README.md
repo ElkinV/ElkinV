@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning / Estoy aprendiendo: Python,Java, C#, Sql, .Net, Linux Terminal
+- 🌱 I’m currently learning / Estoy aprendiendo: Python,Java, Js, Sql, .Net, Linux Terminal
 - 📫 How to reach me / Como contactarme: elkindavidvasquezrivera801@gmail.com
 
 🏆 Mis gustos
