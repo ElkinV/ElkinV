@@ -8,7 +8,7 @@
     <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
     <a href="https://www.linkedin.com/in/elkin-v%C3%A1squez-rivera/">linkedIn</a>
     <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
-    <a href="https://elkinv.github.io/Portfoliio/#portfolio">website</a>
+    <a href="https://elkinv.github.io/Portfoliio/">website</a>
 </p>
 
 <p align="center">
