@@ -19,13 +19,13 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40">
 </p>
 
-<h2>About me</h2>
- <ul>
-  <li>🌱 I’m currently learning: Python, Java, Sql, Linux Terminal</li>
-  <li>📚 I’m studying System Engineer at University of Cartagena</li>
- </ul>
+<h2>About me<h3>
+<ul>
+  <li>🌱I’m currently learning: Python, Java, Sql, Linux Terminal</li>
+  <li>📚I’m studying System Engineer at University of Cartagena</li>
+</ul>
   
-<h3>My passions<h3>
+<h2>My passions<h3>
 <ul>
   <li>👨‍💻 Programming (Python, JavasScript)</li>
   <li>♟ Chess, Sudokus, Puzzles</li>
