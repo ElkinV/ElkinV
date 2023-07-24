@@ -21,19 +21,21 @@
 
 <h2>About me<h3>
 <ul>
-  <li>🌱I’m currently learning: Python, Java, Sql, Linux Terminal</li>
+  <li>🌱I’m currently learning: Flutter, Dart, Python, Sql, Linux Terminal</li>
   <li>📚I’m studying System Engineer at University of Cartagena</li>
 </ul>
   
 <h2>My passions<h3>
 <ul>
-  <li>👨‍💻 Programming (Python, JavasScript)</li>
+  <li>👨‍💻 Programming (Flutter, Python, JavasScript)</li>
   <li>♟ Chess, Sudokus, Puzzles</li>
   <li>📚 Read technology books, innovation, police genre</li>
   <li>💢 Movies (Anime, Manga, series)
   <li>🚲 Calistenia</li>
   <li>🎤 Music (From Everything: Rap, Trap, Rock, Salsa, Flamenco... etc)
 </ul>
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64bea0d08130ad779d348708?variant=dark" alt="roadmap.sh"/></a>
   
 <p align="center">
   <img src="https://media.giphy.com/media/rdQNz4dutSII8/giphy.gif" width="35">
